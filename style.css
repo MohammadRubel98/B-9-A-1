@@ -115,13 +115,101 @@
     max-width:1200px;
     height:400px;
     background-color: bisque;
-    margin: 20px 50px 20px 50px;
-    margin-right: 80px;  
-}    
+    padding-top: 200px; 
+    text-align: center; 
+    margin: 80px 50px 20px 50px;
+    margin-right: 80px;
+}   
 .red-text{
     color: #F00;
-    padding-left: 450px;
-    
+
     
     
 }
+.buttom-div{
+    color: #F00;
+    
+
+ 
+}
+/* AWESOME PORTFOLIO STARTS  */
+
+.portfolio-text {
+    margin: 0 140px;
+  }
+  
+  .best-gift {
+    color: #F00;
+    font-size: 25px;
+    margin-left: 45px;
+    padding-top: 40px;
+  }
+  
+  .awesome-portfolio-title {
+    font-size: 35px;
+    margin-left: 45px;
+    padding-top: 30px;
+  }o
+  
+  .awesome-portfolio-description {
+    font-size: 17px;
+    margin-left: 45px;
+    padding-top: 30px;
+
+  }
+  
+  .awsome-portfolio-image-parent {
+    margin: 50px 50px 120px 50px;
+    display: flexbox;
+  }
+  
+  .main-image-child {
+    padding: 15px;
+    max-width: 290px;
+    max-height: 290px;
+    margin-left: 55px;
+  }
+.newslatter{
+    max-width:1200px;
+    height:400px;
+    background-color: bisque;
+    margin: 80px 50px 20px 50px;
+    margin-right: 80px; 
+    text-align: center; 
+}
+.news-text{
+    color: #070211;
+    font-weight: 900;
+    padding-top: 35px;
+}
+.customer{
+    font-weight: 400px;
+
+}
+.email-adress{
+    color: #F00;
+    border-right: 20px;
+
+
+}
+.group{
+
+}
+.end-option{
+    max-width:1200px;
+    height:300px;
+    background-color: rgb(3, 2, 2);
+    margin: 80px 50px 20px 50px;
+    margin-right: 80px; 
+    text-align: left 40px; 
+    padding-top: 200px;
+}
+.adress{
+    color: #FFF;
+    border-right: 150px;
+}
+.images-kok{
+    position: relative;
+    top:-50px;
+    left:450px;
+}   
